@@ -1,4 +1,4 @@
-# DSA4213 Assignment 3
+# Fine-Tuning Transformer Models for Text Classification (DSA4213 Assignment 3)
 
 ## Overview
 This repository contains the implementation for **Assignment 3** of the NUS DSA4213 module . This assignment fine-tuned pretrained Transformer model (**DistilBERT**) to do topic dectection task, including dataset preparation, model fine-tuning, evaluation, and error analysis. Dataset choice is **AG News dataset**. _Link to the dataset_: https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset/data
